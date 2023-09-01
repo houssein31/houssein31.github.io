@@ -465,6 +465,11 @@ article .icon {
   margin: 0; /* Reset margin specifically for the image */
 }
 
+.view-credly:hover p {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
 /* PROJECTS SECTION */
 
 #projects {
